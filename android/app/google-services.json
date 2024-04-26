@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "618746362055",
+    "firebase_url": "https://kisiuts-c14e7-default-rtdb.firebaseio.com",
+    "project_id": "kisiuts-c14e7",
+    "storage_bucket": "kisiuts-c14e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618746362055:android:8f2b92a4006a77c66f26e2",
+        "android_client_info": {
+          "package_name": "com.example.kisi_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2uNEeBHR3O4WDayFoWkKNKJKPnT6_4aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
